@@ -1,0 +1,23 @@
+{
+  "name": "pong",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "jshint": "^2.9.3",
+    "jshint-loader": "^0.8.3",
+    "node-libs-browser": "^1.0.0",
+    "strip-loader": "^0.1.2",
+    "ts-loader": "^0.9.4",
+    "tslint": "^3.15.1",
+    "webpack": "^1.13.2"
+  },
+  "description": ""
+}
